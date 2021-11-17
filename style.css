@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.holand{
+    display: grid;
+}
+.holand a{
+    color: white;
+}
+.holand a:hover{
+    color: white;
+}
+.gudini{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    margin: 0 auto;
+    text-align: center;
+    width: 35%;
+}
+.sharingan-1{
+    display: flex;
+    justify-content: space-around;
+}
+.sharingan-1 .raid{
+    margin: 0 auto;
+    width: 30%;
+}
+.sharingan-2{
+    display: flex;
+    justify-content: space-around;
+}
+.sharingan-2 .raid{
+    margin: 0 auto;
+    width: 30%;
+}
+.sharingan-3{
+    display: flex;
+    justify-content: space-around;
+}
+.sharingan-3 .raid{
+    margin: 0 auto;
+    width: 30%;
+}
